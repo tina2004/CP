@@ -19,9 +19,6 @@
 		break;
 		case 'u':
 		 cout << "VOWEL";
-		break;
-		case 'y':
-		 cout << "VOWEL";
-		break;   	
+		break;  	
 	}
 }
