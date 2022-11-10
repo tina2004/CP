@@ -6,7 +6,7 @@
    cout << "Please Enter Your Salary: ";
    cin >> salary;
    if ( salary < 6000000) {
-   	cout << salary <<"\a";
+   	cout << salary;
    }
    else if ( salary >=6000000 && salary< 8000000) {
     salary1= salary-(salary *5/100);
