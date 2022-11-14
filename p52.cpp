@@ -5,9 +5,9 @@
     cout <<"Please enter an english word: ";
     cin >> English;
     switch  (English) {
-    	case 'a':
-    	 cout << "VOWEL";
-    	break;
+    	        case 'a':
+    	         cout << "VOWEL";
+    	        break;
 		case 'e':
 		 cout<< "VOWEL";
 		break; 
